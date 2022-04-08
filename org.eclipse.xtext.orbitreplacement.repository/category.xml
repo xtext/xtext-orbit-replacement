@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="org.objectweb.asm" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.source" version="0.0.0"/>
+    <!-- this name is different from orbit -->
+   <bundle id="org.objectweb.asm.tree.analysis" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.tree.analysis.source" version="0.0.0"/>
+   <!-- end diff -->
+   <bundle id="org.objectweb.asm.commons" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.commons.source" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.tree" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.tree.source" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.util" version="0.0.0"/>
+   <bundle id="org.objectweb.asm.util.source" version="0.0.0"/>
+</site>

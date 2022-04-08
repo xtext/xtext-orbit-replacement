@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?>
+<target name="org.eclipse.xtext.orbitreplacement.target" sequenceNumber="1">
+	<locations>
+		<location type="Maven" includeSource="true" missingManifest="error">
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm</artifactId>
+			<version>9.3</version>
+			<type>jar</type>
+		</location>
+		<location type="Maven" includeSource="true" missingManifest="error">
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm-analysis</artifactId>
+			<version>9.3</version>
+			<type>jar</type>
+		</location>
+		<location type="Maven" includeSource="true" missingManifest="error">
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm-commons</artifactId>
+			<version>9.3</version>
+			<type>jar</type>
+		</location>
+		<location type="Maven" includeSource="true" missingManifest="error">
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm-tree</artifactId>
+			<version>9.3</version>
+			<type>jar</type>
+		</location>
+		<location type="Maven" includeSource="true" missingManifest="error">
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm-util</artifactId>
+			<version>9.3</version>
+			<type>jar</type>
+		</location>
+	</locations>
+</target>
